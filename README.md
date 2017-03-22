@@ -4,7 +4,7 @@
 
 **This is a work in progress**
 
-[[https://github.com/tomeustace/recipe-vue/blob/master/images/recipe_vue.png|alt=screenshot]]
+![Screenshot](https://github.com/tomeustace/recipe-vue/blob/master/images/recipe_vue.png|alt=screenshot)
 
 
 ## Usage 
